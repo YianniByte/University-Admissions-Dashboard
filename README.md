@@ -42,7 +42,7 @@ Dashboard and reports on international student migration to select universities
 
 ![Degrees](University_Degrees.jpg)
 
-### Placement
+### Placements
 
 * Additional details on prospective placement companies and prospective salary 
 * Users can observe the percentage of students that studied and stayed in their country of study. It is important to see if the university getting students into the workforce of the respective country.
