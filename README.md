@@ -4,13 +4,14 @@ By John Haidoulis
 
 ## General Summary
 
-Dashboard and reports on international student migration to select universities
+Power BI Dashboard and reports on international student migration to select universities
 
 ## Scope
 
 * For university admissions teams/executives for most universities. 
 * I grouped the data into 3 clear categories (Locations, Degrees, Placements) to better gather detailed insights for specific metrics on the dashboard. 
 * Note that the data is synthetic but realistic.
+* The .pbix file can be downloaded and interacted with in MS Power BI desktop.
 
 ## Key Reports and Insights
 
